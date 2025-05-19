@@ -7,8 +7,8 @@
 
 Projeto de análise de dados completo para explorar padrões de vendas, desempenho de entregas e satisfação de clientes no mercado brasileiro de e-commerce.
 
-## Para executar, basta clicar no link do Colab que irá abrir uma aba diretamente com o código em si, depois execute cada célular sequencialmente.
-## Lembre-se de criar uma pasta data e carregar os dataset dentro dela.
+Para executar, basta clicar no link do Colab que irá abrir uma aba diretamente com o código em si, depois execute cada célular sequencialmente.
+Lembre-se de criar uma pasta data e carregar os dataset dentro dela.
 
 # Resultados:
 
